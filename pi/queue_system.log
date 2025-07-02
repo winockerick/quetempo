@@ -1,0 +1,59 @@
+2025-05-04 01:43:05,828 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 01:43:56,967 - Invalid message format: TOKENIZER,0626551833,1,regular
+2025-05-04 01:53:51,509 - Invalid token format: regular
+2025-05-04 01:54:40,453 - Invalid token format: regular
+2025-05-04 01:57:01,664 - Invalid message format: TELLER,NEXT
+2025-05-04 02:13:36,910 - Invalid token format: regular
+2025-05-04 02:15:32,403 - Invalid token format: regular
+2025-05-04 02:15:57,699 - Invalid message format: TELLER,NEXT
+2025-05-04 02:17:53,409 - Invalid message format: TELLER,NEXT
+2025-05-04 02:18:03,342 - Invalid message format: TOKENIZER,0626551833,1,regular
+2025-05-04 02:24:40,353 - Invalid message format: TELLER,NEXT
+2025-05-04 02:24:46,904 - Invalid message format: TELLER,NEXT
+2025-05-04 02:29:42,432 - Invalid message format: TELLER,NEXT
+2025-05-04 02:29:52,574 - Invalid message format: TOKENIZER,0626551833,2,regular
+2025-05-04 02:37:13,726 - Invalid message format: TOKENIZER,0626551833,3,regular
+2025-05-04 02:39:00,418 - Invalid message format: TELLER,NEXT
+2025-05-04 02:43:12,973 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 02:45:19,807 - Invalid message format: TELLER,NEXT
+2025-05-04 02:45:32,303 - Invalid message format: TELLER,NEXT
+2025-05-04 02:46:09,171 - Invalid message format: TOKENIZER,0626551833,4,regular
+2025-05-04 02:47:38,278 - Invalid message format: TOKENIZER,0626551833,5,regular
+2025-05-04 02:48:54,133 - Invalid message format: TELLER,NEXT
+2025-05-04 02:48:59,303 - Invalid message format: TELLER,NEXT
+2025-05-04 02:49:38,472 - Invalid message format: TELLER,NEXT
+2025-05-04 02:49:40,931 - Invalid message format: TELLER,NEXT
+2025-05-04 02:51:24,378 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 02:51:29,988 - Invalid message format: TELLER,NEXT
+2025-05-04 02:51:37,258 - Invalid message format: TOKENIZER,0626551833,6,regular
+2025-05-04 02:54:36,357 - Invalid message format: TELLER,NEXT
+2025-05-04 02:57:13,986 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 02:57:20,406 - Invalid message format: TELLER,NEXT
+2025-05-04 02:57:32,592 - Invalid message format: TOKENIZER,0626551833,7,regular
+2025-05-04 03:01:37,019 - Invalid message format: TELLER,NEXT
+2025-05-04 03:02:12,381 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 03:02:29,351 - Received token: Phone=0626551833, Token=8, Type=regular
+2025-05-04 03:02:31,294 - SMS sent to +255626551833: {'message': 'Message sent', 'status': 'sent'}
+2025-05-04 03:02:33,034 - SMS sent to +255626551833: {'message': 'Message sent', 'status': 'sent'}
+2025-05-04 03:03:14,257 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:18,708 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:21,542 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:24,849 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:27,036 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:29,353 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:31,708 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:33,979 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:36,435 - Invalid message format: TELLER,NEXT
+2025-05-04 03:03:38,774 - Invalid message format: TELLER,NEXT
+2025-05-04 03:05:01,001 - Invalid message format: TELLER,NEXT
+2025-05-04 03:08:40,319 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 03:09:18,949 - Invalid message format: TELLER,NEXT
+2025-05-04 03:12:59,921 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 03:13:35,056 - Invalid message format: TELLER,NEXT
+2025-05-04 03:17:05,487 - Invalid message format: TELLER,NEXT
+2025-05-04 03:28:48,990 - UDP Listener started on 0.0.0.0:12345.
+2025-05-04 03:28:56,455 - Invalid message format: TELLER,NEXT
+2025-05-04 03:30:00,522 - Invalid message format: TELLER,NEXT
+2025-05-04 11:44:52,389 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023CEAC17C50>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2025-05-04 11:44:52,390 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023CEAD14F50>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2025-05-04 11:44:52,391 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023CEAD151D0>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
